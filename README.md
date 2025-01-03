@@ -2,9 +2,6 @@
 
 This is a simple countdown timer application built using **React** and styled with **CSS**. The application displays the time remaining until January 1, 2026.
 
-![Countdown Timer Screenshot](![Uploading Countdown2026.png…]()
-)
-
 ---
 
 ## Features
